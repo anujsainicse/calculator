@@ -63,41 +63,41 @@ body {
 }
 
 .number {
-    background: #636e72;
+    background: #ff69b4;
     color: #fff;
 }
 
 .number:hover {
-    background: #74b9ff;
+    background: #ff1493;
 }
 
 .operator {
-    background: #fdcb6e;
-    color: #2d3436;
+    background: #ff69b4;
+    color: #fff;
 }
 
 .operator:hover {
-    background: #ffeaa7;
+    background: #ff1493;
 }
 
 .function {
-    background: #e17055;
+    background: #ff69b4;
     color: #fff;
 }
 
 .function:hover {
-    background: #fab1a0;
+    background: #ff1493;
 }
 
 .equals {
-    background: #00b894;
+    background: #ff69b4;
     color: #fff;
     grid-row: span 2;
     height: auto;
 }
 
 .equals:hover {
-    background: #55efc4;
+    background: #ff1493;
 }
 
 .zero {
